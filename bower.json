@@ -1,0 +1,14 @@
+{
+  "name": "ninja",
+  "version": "0.1.1",
+  "main": ["dest/ninja.min.js", "dest/ninja.min.css"],
+  "license": "MIT",
+  "ignore": ["**/*", "!dest/**/*"],
+  "dependencies": {
+    "miso": "https://github.com/ourai/miso.git"
+  },
+  "keywords": [
+    "storage",
+    "data"
+  ]
+}
